@@ -1,0 +1,112 @@
+[
+  {
+    "card_name": "Millennia Credit Card",
+    "issuer": "HDFC Bank",
+    "source_url": "https://www.hdfcbank.com/content/api/contentstream-id/723fb80a-2dde-42a3-9793-7ae1be57c87f/081641f7-66ec-4566-aad7-5a2b214146e9",
+    "last_verified": "2026-10-06",
+    "verification_method": "Official issuer source reachable + card name expected in source content",
+    "data_entry_method": "Issuer-source-derived curated record",
+    "data_status": "verified-source",
+    "income_requirement_status": "explicit",
+    "note": "Official HDFC card document: ₹1,000 fee; salaried gross monthly income >₹25,000; 5% cashback on selected online merchants; lounge access noted on HDFC card page."
+  },
+  {
+    "card_name": "MoneyBack+ Credit Card",
+    "issuer": "HDFC Bank",
+    "source_url": "https://www.hdfcbank.com/content/api/contentstream-id/723fb80a-2dde-42a3-9793-7ae1be57c87f/1256ebd5-a8e6-49d3-b4ba-54a93a0acb51",
+    "last_verified": "2026-10-06",
+    "verification_method": "Official issuer source reachable + card name expected in source content",
+    "data_entry_method": "Issuer-source-derived curated record",
+    "data_status": "verified-source",
+    "income_requirement_status": "explicit",
+    "note": "Official HDFC document: ₹500 fee; salaried gross monthly income >₹20,000; 10X CashPoints on selected merchants; 2 CashPoints per ₹150 other eligible spends; CashPoint value up to ₹0.25."
+  },
+  {
+    "card_name": "Amazon Pay ICICI Bank Credit Card",
+    "issuer": "ICICI Bank",
+    "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/amazon-pay-credit-card",
+    "last_verified": "2026-10-06",
+    "verification_method": "Official issuer source reachable + card name expected in source content",
+    "data_entry_method": "Issuer-source-derived curated record",
+    "data_status": "verified-source",
+    "income_requirement_status": "explicit",
+    "note": "Official ICICI page: NIL joining/annual fee; minimum monthly income ₹30,000; up to 5% Amazon rewards and 1% other spends; 1.99% forex markup; fuel surcharge waiver."
+  },
+  {
+    "card_name": "Coral Credit Card",
+    "issuer": "ICICI Bank",
+    "source_url": "https://www.icici.bank.in/personal-banking/cards/credit-card/coral-credit-card",
+    "last_verified": "2026-10-06",
+    "verification_method": "Official issuer source reachable + card name expected in source content",
+    "data_entry_method": "Issuer-source-derived curated record",
+    "data_status": "verified-source",
+    "income_requirement_status": "explicit",
+    "note": "Official ICICI page: ₹500 joining/annual fee; salaried monthly income ₹20,000; 2 reward points per ₹100 retail and 1 per ₹100 utility/insurance; lounge access subject to spend criterion."
+  },
+  {
+    "card_name": "CASHBACK SBI Card",
+    "issuer": "SBI Card",
+    "source_url": "https://www.sbicard.com/en/personal/credit-cards/cashback-sbi-card.html",
+    "last_verified": "2026-10-06",
+    "verification_method": "Official issuer source reachable + card name expected in source content",
+    "data_entry_method": "Issuer-source-derived curated record",
+    "data_status": "verified-source",
+    "income_requirement_status": "not_stated",
+    "note": "Official SBI Card page: ₹999 annual fee; 5% online cashback and 1% offline cashback; renewal fee reversed at ₹2 lakh annual spends. Card-specific minimum income is not stated on this page."
+  },
+  {
+    "card_name": "SimplyCLICK SBI Card",
+    "issuer": "SBI Card",
+    "source_url": "https://www.sbicard.com/en/personal/credit-cards/simplyclick-sbi-card.html",
+    "last_verified": "2026-10-06",
+    "verification_method": "Official issuer source reachable + card name expected in source content",
+    "data_entry_method": "Issuer-source-derived curated record",
+    "data_status": "verified-source",
+    "income_requirement_status": "not_stated",
+    "note": "Official SBI Card page: ₹499 annual fee; 10X partner online rewards, 5X other online rewards, 1 point/₹100 other spends; 4 points = ₹1; fee reversal at ₹1 lakh annual spends."
+  },
+  {
+    "card_name": "SBI Card PRIME",
+    "issuer": "SBI Card",
+    "source_url": "https://www.sbicard.com/en/personal/credit-cards/sbi-card-prime.html",
+    "last_verified": "2026-10-06",
+    "verification_method": "Official issuer source reachable + card name expected in source content",
+    "data_entry_method": "Issuer-source-derived curated record",
+    "data_status": "verified-source",
+    "income_requirement_status": "not_stated",
+    "note": "Official SBI Card page: ₹2,999 annual fee; 10 points/₹100 dining/departmental/grocery and 2 points/₹100 other retail; 4 points = ₹1; 8 domestic + 4 international Priority Pass visits."
+  },
+  {
+    "card_name": "ACE Credit Card",
+    "issuer": "Axis Bank",
+    "source_url": "https://www.axis.bank.in/cards/credit-card/axis-bank-ace-credit-card",
+    "last_verified": "2026-10-06",
+    "verification_method": "Official issuer source reachable + card name expected in source content",
+    "data_entry_method": "Issuer-source-derived curated record",
+    "data_status": "verified-source",
+    "income_requirement_status": "not_stated",
+    "note": "Official Axis page: ₹499 annual fee from year 2; 5% utility/recharges via Google Pay, 4% Swiggy/Zomato/Ola, 1.5% other spends; 4 domestic lounge visits."
+  },
+  {
+    "card_name": "Axis Bank Cashback Credit Card",
+    "issuer": "Axis Bank",
+    "source_url": "https://www.axis.bank.in/cards/credit-card/cashback-credit-card",
+    "last_verified": "2026-10-06",
+    "verification_method": "Official issuer source reachable + card name expected in source content",
+    "data_entry_method": "Issuer-source-derived curated record",
+    "data_status": "verified-source",
+    "income_requirement_status": "not_stated",
+    "note": "Official Axis page: ₹1,000 annual fee; up to 7% online cashback; 0.75% offline/travel; 0.5% utilities up to cap; annual fee waiver at ₹4 lakh spends."
+  },
+  {
+    "card_name": "Airtel Axis Bank Credit Card",
+    "issuer": "Axis Bank",
+    "source_url": "https://www.axisbank.com/docs/default-source/default-document-library/credit-cards/terms-and-conditions-for-cashback-for-airtel-axis-bank-credit-card.pdf",
+    "last_verified": "2026-10-06",
+    "verification_method": "Official issuer source reachable + card name expected in source content",
+    "data_entry_method": "Issuer-source-derived curated record",
+    "data_status": "verified-source",
+    "income_requirement_status": "not_stated",
+    "note": "Official Axis terms: 25% Airtel bill payments, 10% utility via Airtel Thanks, 10% preferred merchants including Swiggy/Zomato/BigBasket, 1% other spends; cashback caps apply."
+  }
+]
